@@ -1,0 +1,14 @@
+.navbar{
+    position: absolute;
+    left:10%;
+    top: 5%;
+    z-index: 10;
+    
+
+}
+h1 {
+  
+  color: #ffffff;
+  text-shadow: 0 0 10px rgba(0, 191, 255, 0.8), 0 0 20px rgba(0, 191, 255, 0.6);
+}
+
