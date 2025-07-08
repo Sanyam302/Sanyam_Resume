@@ -1,10 +1,10 @@
 
 import React from 'react'
-import Home from './pages/home'
-import Navbar from './pages/navbar'
-import MainRoutes from './pages/mainroutes'
+import Home from './pages/Home'
+import Navbar from './pages/Navbar'
+import MainRoutes from './pages/MainRoutes'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Background from './pages/background'
+import Background from './pages/Background'
 import { ToastContainer } from 'react-toastify';
 
 function App() {
